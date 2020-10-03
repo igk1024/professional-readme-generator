@@ -4,7 +4,7 @@
 
 ## Description
 
-Application description goes here
+This is an application to quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
 
 
 # Table of Contents 
@@ -17,12 +17,12 @@ Application description goes here
 
 ## Installation
 
-Installation information goes here
+To install, download the contents of the GitHub package to your desktop.
 
 
 ## Usage
 
-Usage information goes here
+After downloading the application, run the project from your terminal. You will then be prompted to enter information to generate a readme file.
 
 
 ## License
@@ -35,18 +35,18 @@ Usage information goes here
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
-Contributing information goes here
+
 
 
 ## Tests
 
-Test instructions go here
+
 
 
 ## Questions
 
 If you have any questions, please feel free to email me.
-- [My Github Profile](https://github.com/githublink.com)
+- [My Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
 
 - [Email Me](idakrause@gmail.com)
 
