@@ -24,5 +24,5 @@ After downloading the application, run the project from your terminal. You will 
 
 ## Questions
 If you have any questions, please feel free to email me.
--[Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
--[Email Address](idakrause@gmail.com)
+- [Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
+- [Email Address](idakrause@gmail.com)
