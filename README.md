@@ -20,10 +20,9 @@ To install, download the contents of the GitHub package to your desktop.
 After downloading the application, run the project from your terminal. You will then be prompted to enter information to generate a readme file.
 
 ## Usage Video Demo
-
+[Screen Recording](https://drive.google.com/file/d/1qUQux2B3u17MQmh7YYENUTTa5y3kDakk/view)
 
 ## Questions
 If you have any questions, please feel free to email me.
-- [My Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
-
-- [Email Me](idakrause@gmail.com)
+[Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
+[Email Address](idakrause@gmail.com)
