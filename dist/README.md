@@ -2,9 +2,9 @@
 # Professional README Generator
 
 
-## Description:
+## Description
 
-This is an application to quickly and easily generate a README file by using a command-line application to generate one. This allows the project creator to devote more time working on the project.
+Application description goes here
 
 
 # Table of Contents 
@@ -15,39 +15,38 @@ This is an application to quickly and easily generate a README file by using a c
 - [License](#license)
 - [Questions](#questions)
 
-## Installation:
+## Installation
 
-undefined
-
-
-## Usage:
-
-To use this application, simply download necessary file package to your desktop. Then run the project from your terminal. You will then be prompted to enter information to generate a readme file.
+Installation information goes here
 
 
-## License:
+## Usage
+
+Usage information goes here
+
+
+## License
 
 ![License](https://img.shields.io/badge/License-GPLv3-brightgreen.svg "License Badge")
 
 
 
-## Contributing:
+## Contributing
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-v2.0%20adopted-ff69b4.svg)](CODE_OF_CONDUCT.md)
 
+Contributing information goes here
 
 
+## Tests
+
+Test instructions go here
 
 
-## Tests:
-
-
-
-
-## Questions:
+## Questions
 
 If you have any questions, please feel free to email me.
-- [My Github Profile](https://github.com/https://github.com/https://github.com/igk1024/professional-readme-generator)
+- [My Github Profile](https://github.com/githublink.com)
 
 - [Email Me](idakrause@gmail.com)
 

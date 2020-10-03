@@ -42,8 +42,8 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
         type: 'input',
         name: 'installation',
         message: 'Enter your project installation information',
-            when: ({ confirmInstallation }) => {
-                if (confirmInstallation) {
+            when: installationInput => {
+                if (installationInput) {
                   return true;
                 } else {
                   return false;
